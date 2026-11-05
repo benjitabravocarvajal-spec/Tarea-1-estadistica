@@ -2,3 +2,5 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/.DS_Store
+
+data/raw/colegios_independencia_PAES2025.csv
