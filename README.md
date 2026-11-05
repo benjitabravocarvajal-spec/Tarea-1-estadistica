@@ -1,6 +1,6 @@
 # Tarea 1 — MA3402 Estadística
 
-(Falta: semilla-describir modelo-revisar la estructura-describir mejor las instrucciones)
+(Falta: describir modelo-revisar la estructura-describir mejor las instrucciones)
 
 
 Grupo: Miguel Astudillo-Nyx Butelmann-Benjamin Bravo-Gonzalo Castro
@@ -21,4 +21,4 @@ Modelo de call center (rellenar)
 4. Abrir los notebooks en `notebooks/` y ejecutar en orden
 
 ## Semilla
-Se utiliza `np.random.default_rng(SEMILLA)` con semilla fija = [nuestro número] para reproducibilidad
+Se utiliza `np.random.default_rng(SEMILLA)` con semilla fija = 223 para reproducibilidad
